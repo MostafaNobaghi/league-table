@@ -1,0 +1,56 @@
+body {
+    min-width: 430px;
+}
+.hide {
+    display: none;
+}
+.points {
+    background: #fdd;
+}
+.gd {
+    background: #eed;
+}
+table {
+    border-radius: 5px;
+}
+table, td, th {
+    padding: 5px;
+    border: 2px solid #999;
+    border-collapse: collapse;
+    border-radius: 5px;
+}
+#add-team-form {
+    border: 2px #999 solid;
+    border-radius: 5px;
+    max-width: 400px;
+    padding: 20px;
+    color: #666;
+    margin: 10px auto;
+}
+.table {
+    max-width: 555px;
+    margin: 10px auto;
+    color: #444;
+}
+input {
+    margin: 8px;
+}
+
+.matchs {
+    border: 2px #999 solid;
+    max-width: 450px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+.matchs form {
+    //border-top: 1px solid #bbb;
+    //border-radius: 100px;
+    padding: 5px;
+    background: #eed;
+}
+
+
+.matchs input[type=text] {
+    width: 100px;   
+}
